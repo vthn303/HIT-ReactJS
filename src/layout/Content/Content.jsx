@@ -3,6 +3,8 @@ import "../Content/Content.css";
 import { faChartSimple } from "@fortawesome/free-solid-svg-icons";
 import { faSun } from "@fortawesome/free-solid-svg-icons";
 import { faPeopleGroup } from "@fortawesome/free-solid-svg-icons";
+import React from "react";
+
 const Content = () => {
   return (
     <div className="content-main">

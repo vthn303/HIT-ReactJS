@@ -1,4 +1,5 @@
 import "../Header/Header.css";
+import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDesktop } from "@fortawesome/free-solid-svg-icons";
 import { faTablet } from "@fortawesome/free-solid-svg-icons";
